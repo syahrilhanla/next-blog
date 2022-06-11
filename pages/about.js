@@ -1,5 +1,12 @@
+import Meta from "../components/Meta";
+
 const about = () => {
-	return <div>About</div>;
+	return (
+		<div>
+			<Meta title={"about"} />
+			About
+		</div>
+	);
 };
 
 export default about;
