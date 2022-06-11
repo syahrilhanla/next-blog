@@ -41,6 +41,13 @@
 	margin-left: 0.5rem;
 }
 
+.articleBody {
+	padding: 1.5rem 2rem;
+	margin: 0px 4rem;
+	border: #c9c9c9 1px solid;
+	border-radius: 6px;
+}
+
 @media (max-width: 600px) {
 	.grid {
 		width: 100%;
